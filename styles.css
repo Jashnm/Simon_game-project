@@ -51,3 +51,22 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.start {
+  margin: 25px;
+  display: inline-block;
+  height: 90px;
+  width: 110px;
+  border: 8px solid white;
+  border-radius: 10%;
+  font-size: 15px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+h3 {
+color: #fff;
+font-family: 'Press Start 2P', cursive;
+}
+.hide {
+  opacity: 0;
+}
